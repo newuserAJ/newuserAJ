@@ -37,6 +37,26 @@ const Adith = {
   }
 }
 ```
-<p align="center"> <a href="https://www.google.com/search?q=https://github.com/adithjose58/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gaaurav03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a> </p>
+## 📊 My Github Stats
 
-<p align="left"> <a href = "https://www.linkedin.com/in/adith-jose-01b72a244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "mailto:adithjose58@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/secured-letter.png"/></a> </p>
+  <br/>
+    <a href="https://github.com/newuserAJ/github-readme-stats"><img alt="Adith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=newuserAJ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/newuserAJ/github-readme-stats"><img alt="Adith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newuserAJ&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/newuserAJ">
+  <img alt="Gaurav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=newuserAJ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC" />
+</a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/adith-jose-01b72a244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "http://www.instagram.com/adiith_j"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
