@@ -7,8 +7,6 @@
 <p>I'm a final year B.Tech student specializing in **Computer Science (AI & ML)**, passionate about building robust machine learning and deep learning models to solve complex problems.</p>
 
 
-[Image of machine learning model diagram]
-
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
 <ul>
   <li>👋 Hi, I’m **Adith Jose**.</li>
