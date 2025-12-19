@@ -12,7 +12,7 @@
   <li>👋 Hi, I’m **Adith Jose**.</li>
   <li>🎓 Final year B.Tech student at **VIT Bhopal University** (CGPA: 8.77/10).</li>
   <li>🌱 I’m currently focused on **Deep Learning**, **Data Structures & Algorithms (DSA)**, and MLOps.</li>
-  <li>💡 Key Projects include **NeuroDetect (CNN)**, **MovieMap (KNN)**, and **FacePulse** Attendance System.</li>
+  <li>💡 Key Projects include **PulseAI:Heart Disease Detector**, **CineSense: A Movie Recommendation System**, and **FacePulse** Attendance System.</li>
   <li>🏅 Certified as **Oracle Cloud Infrastructure 2025 Data Science Professional**.</li>
   <li>🏅 Certified as **Oracle Cloud Infrastructure 2025 Generative AI Professional**.</li>
   <li>💻 I actively solve **200+ DSA problems** on LeetCode and GeeksforGeeks.</li>
