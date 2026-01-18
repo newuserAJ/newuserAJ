@@ -1,60 +1,21 @@
-<p align="center">
-  <h1 align="center">Welcome to Adith Jose's Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5BCDEC&size=25&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Enthusiast+%7C+Data+Scientist;I+love+building+predictive+models+!!" /></a>
-</p>
-<p>I'm a final year B.Tech student specializing in **Computer Science (AI & ML)**, passionate about building robust machine learning and deep learning models to solve complex problems.</p>
+# 💫 About Me:
+🎓 Final Year B.Tech (CSE – AI & ML) | VIT Bhopal University<br>📊 CGPA: 8.77 / 10<br>💡 Passionate about building scalable ML and Deep Learning solutions <br><br>Machine Learning projects, Generative AI applications, DSA problem-solving<br><br>AI/ML projects, recommendation systems, computer vision applications, and research-oriented problem solving<br>Machine Learning, Deep Learning, Generative AI, Data Structures & Algorithms<br><br>I’ve solved 300+ DSA problems and enjoy optimizing models as much as optimizing algorithms
 
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
-<ul>
-  <li>👋 Hi, I’m **Adith Jose**.</li>
-  <li>🎓 Final year B.Tech student at **VIT Bhopal University** (CGPA: 8.77/10).</li>
-  <li>🌱 I’m currently focused on **Machine Learning**,**Generative AI**, **Data Structures & Algorithms (DSA)**, and MLOps.</li>
-  <li>💡 Key Projects include **PulseAI:Heart Disease Detector**, **CineSense: A Movie Recommendation System**, and **FacePulse** Attendance System.</li>
-  <li>🏅 Certified as **Oracle Cloud Infrastructure 2025 Data Science Professional**.</li>
-  <li>🏅 Certified as **Oracle Cloud Infrastructure 2025 Generative AI Professional**.</li>
-  <li>💻 I actively solve **300+ DSA problems** on LeetCode and GeeksforGeeks.</li>
-  <li>📫 How to Reach me: **adithjose58@gmail.com**</li>
-</ul>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiith_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adith-jose-01b72a244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithjose58@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=newuserAJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=newuserAJ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newuserAJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=newuserAJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 🧠 A little more about my technical skills
-```javascript
-const Adith = {
-  pronouns: "He" | "Him",
-  focus: ["Machine Learning", "Deep Learning", "Data Structures & Algorithms", "OOP"],
-  languages: ["Python", "C++", "Java"],
-  askMeAbout: ["CNNs", "KNN classifiers", "Hyperparameter Tuning", "Scikit-Learn", "TensorFlow"],
-  technologies: {
-      ml_frameworks: ["TensorFlow", "Scikit-Learn", "NumPy", "Pandas", "OpenCV"],
-      databases: ["SQL", "MongoDB"],
-      tools: ["Git", "VS Code", "Tkinter"]
-  }
-}
-```
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/newuserAJ/github-readme-stats"><img alt="Adith's Github Stats" src="https://github-readme-stats.vercel.app/api?username=newuserAJ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/newuserAJ/github-readme-stats"><img alt="Adith's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newuserAJ&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/newuserAJ">
-  <img alt="Gaurav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=newuserAJ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC" />
-</a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/adith-jose-01b72a244/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "http://www.instagram.com/adiith_j"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
