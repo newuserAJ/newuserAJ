@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final Year B.Tech (CSE – AI & ML) | VIT Bhopal University<br>📊 CGPA: 8.77 / 10<br>💡 Passionate about building scalable ML and Deep Learning solutions <br><br>Machine Learning projects, Generative AI applications, DSA problem-solving<br><br>AI/ML projects, recommendation systems, computer vision applications, and research-oriented problem solving<br>Machine Learning, Deep Learning, Generative AI, Data Structures & Algorithms<br><br>I’ve solved 300+ DSA problems and enjoy optimizing models as much as optimizing algorithms
+🎓 Final Year B.Tech (CSE – AI & ML) | VIT Bhopal University<br>📊 CGPA: 8.78 / 10<br>💡 Passionate about building scalable ML and Deep Learning solutions <br><br>Machine Learning projects, Generative AI applications, DSA problem-solving<br><br>AI/ML projects, recommendation systems, computer vision applications, and research-oriented problem solving<br>Machine Learning, Deep Learning, Generative AI, Data Structures & Algorithms<br><br>I’ve solved 300+ DSA problems and enjoy optimizing models as much as optimizing algorithms
 
 
 ## 🌐 Socials:
